@@ -4,9 +4,9 @@
 <div align="center">
 - 📫 How to reach me **idrissoufaysal93@gmail.com**
   <div align="center">
-  <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="300" width="300" /> 
-  <img src="https://i.pinimg.com/originals/ab/cf/41/abcf411719ffb3921aaef03100efe2c4.png" align="center" height="300" width="300" /> 
-      <img src="https://i.pinimg.com/236x/1a/91/1a/1a911ab7388613151c6976c4380c00d4.jpg" align="center" height="270" width="270"  /> 
+  <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="250" width="250" /> 
+  <img src="https://i.pinimg.com/originals/ab/cf/41/abcf411719ffb3921aaef03100efe2c4.png" align="center" height="250" width="250" /> 
+      <img src="https://i.pinimg.com/236x/1a/91/1a/1a911ab7388613151c6976c4380c00d4.jpg" align="center" height="200" width="200"  /> 
   </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
